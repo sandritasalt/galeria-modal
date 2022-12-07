@@ -7,6 +7,7 @@ body{
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	background-image: liner-gradient(to top, #444, #eee);
 }
 .galeria{
 	width: 450px;
